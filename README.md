@@ -1,12 +1,12 @@
 👋 Welcome to my GitHub profile! I'm Vaibhav Sapaliya, a passionate tech enthusiast and student exploring multiple domains in technology.
 
-💻 Full Stack Developer (MERN, Node.js, Express)
-📊 AI/ML Enthusiast (Deep Learning, NLP, Anomaly Detection, Neural network)
-🚀 Realtime Applications (WebSockets, Socket.io, Leaflet)
-🎨 Frontend Animation (GSAP, CSS, JavaScript)
-🔍 Data Science & Analytics (Pandas, NumPy, Matplotlib)
-📚 Researcher & Innovator (AI-powered solutions, academic papers<AI-Agent)
-🌟 Problem Solver & Competitive Coder(Java)
+💻 Full Stack Developer (MERN, Node.js, Express).
+📊 AI/ML Enthusiast (Deep Learning, NLP, Anomaly Detection, Neural network).
+🚀 Realtime Applications (WebSockets, Socket.io, Leaflet).
+🎨 Frontend Animation (GSAP, CSS, JavaScript).
+🔍 Data Science & Analytics (Pandas, NumPy, Matplotlib).
+📚 Researcher & Innovator (AI-powered solutions, academic papers<AI-Agent).
+🌟 Problem Solver & Competitive Coder(Java).
 
 Always eager to learn, collaborate, and build something impactful! Let's connect and create the future together. 🚀😊
 
