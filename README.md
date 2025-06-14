@@ -1,27 +1,40 @@
-👋 Welcome to my GitHub profile! I'm Vaibhav Sapaliya, a passionate tech enthusiast and student exploring multiple domains in technology.  
+# Hi there, I'm Vaibhav Sapaliya 👋
 
-* 💻 Full Stack Developer (MERN, Node.js, Express)  
-* 📊 AI/ML Enthusiast (Deep Learning, NLP, Anomaly Detection, Neural Networks)  
-* 🚀 Realtime Applications (WebSockets, Socket.io, Leaflet)	  
-* 🎨 Frontend Animation (GSAP, CSS, JavaScript)	  
-* 🔍 Data Science & Analytics (Pandas, NumPy, Matplotlib)  
-* 📚 Researcher & Innovator (AI-powered solutions, academic papers, AI Agents)  
-* 🌟 Problem Solver & Competitive Coder (Java)  
+🎓 **Computer Engineering Student**  
+💻 Passionate about building with the **MERN stack**, exploring diverse **databases**, and always experimenting with new frameworks.
 
+---
 
-Always eager to learn, collaborate, and build something impactful! Let's connect and create the future together. 🚀😊  
+## 🚀 About Me
 
-<!--
-**Vaibhavvs7/Vaibhavvs7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Always eager to learn new things and take on exciting challenges.
+- 📚 Avid reader of books, enthusiastic about physical sports, music, and movies.
+- 🏗️ Currently in the development phase, sharpening my skills and exploring what’s next.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+- **Languages:** JavaScript, C/C++, Python (and always adding more!)
+- **Frameworks:** MERN Stack (MongoDB, Express.js, React, Node.js), plus many more
+- **Databases:** SQL, NoSQL, MongoDB, MySQL
+- **Tools:** Git, GitHub, VS Code, Postman, and more
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavsapaliya/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Vaibhav_VS/)
+
+---
+
+## ⚡ Fun Facts
+
+- 🏏 I love playing physical sports to stay active and energized.
+- 🎵 Music and movies are my go-to for unwinding after a long day.
+- 📖 Always have a book on hand—recommend me your favorite!
+
+---
+
+> “Striving for progress, not perfection. Let’s connect and grow together!”
