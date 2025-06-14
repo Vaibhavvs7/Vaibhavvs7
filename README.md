@@ -25,6 +25,7 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavsapaliya/)
+[![X](https://img.shields.io/badge/X-black?logo=X&logoColor=white)](https://x.com/VSapaliya66436)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Vaibhav_VS/)
 
 ---
