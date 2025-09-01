@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm Vaibhav Sapaliya
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+Enthusiast;Code+%26+Coffee+Lover;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=11D3F7FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+developer;Code+%26+Building+AI_Agent;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 ### 🎓 Computer Engineering Student | 💻 Passionate Full Stack Developer
 
