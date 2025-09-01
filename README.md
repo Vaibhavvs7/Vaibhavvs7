@@ -56,52 +56,10 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### 🛍️ E-Commerce Platform
-**Full-stack MERN application with advanced features**
-- 🛒 Complete shopping cart functionality with payment integration
-- 👤 User authentication & authorization with JWT
-- 📊 Admin dashboard for inventory management
-- **Tech**: React, Node.js, Express, MongoDB, Stripe API
-
-[🔗 View Project](https://github.com/Vaibhavvs7) | [🚀 Live Demo](#)
-
-### 📱 Social Media Dashboard
-**Real-time social media analytics platform**
-- 📈 Dynamic data visualization with Chart.js
-- 🔄 Real-time updates using Socket.io
-- 🎨 Responsive design with modern UI/UX
-- **Tech**: React, Node.js, Socket.io, MongoDB, Chart.js
-
-[🔗 View Project](https://github.com/Vaibhavvs7) | [🚀 Live Demo](#)
-
-### 🎵 Music Streaming App
-**Spotify-inspired music platform with custom features**
-- 🎶 Audio streaming with playlist management
-- 🔍 Advanced search and recommendation system
-- 💾 Cloud storage integration for music files
-- **Tech**: React, Express, MongoDB, AWS S3, Web Audio API
-
-[🔗 View Project](https://github.com/Vaibhavvs7) | [🚀 Live Demo](#)
-
-### 📝 Task Management System
-**Collaborative project management tool**
-- 👥 Team collaboration with real-time updates
-- 📅 Calendar integration and deadline tracking
-- 🏷️ Custom tags and priority systems
-- **Tech**: MERN Stack, Socket.io, Material-UI
-
-[🔗 View Project](https://github.com/Vaibhavvs7) | [🚀 Live Demo](#)
-
----
-
 ## 🌍 Open Source & Contributions
 
 - 🤝 **Contributing** to various React and Node.js projects
 - 🏆 **Hackathon Participant**: Built innovative solutions under tight deadlines
-- 📚 **Knowledge Sharing**: Writing technical blogs and tutorials
-- 🛠️ **Personal Libraries**: Developing reusable components and utilities
 - 🌟 **Community Member**: Active in developer communities and forums
 
 <div align="center">
@@ -128,7 +86,6 @@
 - 🎬 **Movie Buff**: Sci-fi and thrillers are my go-to genres for inspiration
 - 📖 **Bookworm**: Always reading about technology, philosophy, or fiction
 - ☕ **Coffee Addict**: Best code is written with a perfect cup of coffee
-- 🌙 **Night Owl**: Most productive coding happens between 10 PM - 2 AM
 - 🎮 **Gamer**: Strategy games help me think algorithmically
 
 > *"The best error message is the one that never shows up."* - Thomas Fuchs
