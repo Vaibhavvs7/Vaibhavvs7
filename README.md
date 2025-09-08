@@ -74,21 +74,8 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaibhavvs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavvs7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
----
-
-## ⚡ Fun Facts & Personal Touch
-
-- 🏏 **Sports Enthusiast**: Cricket and football keep me energized and competitive
-- 🎵 **Music Lover**: From classical to electronic, music fuels my coding sessions
-- 🎬 **Movie Buff**: Sci-fi and thrillers are my go-to genres for inspiration
-- 📖 **Bookworm**: Always reading about technology, philosophy, or fiction
-- ☕ **Coffee Addict**: Best code is written with a perfect cup of coffee
-- 🎮 **Gamer**: Strategy games help me think algorithmically
-
-> *"The best error message is the one that never shows up."* - Thomas Fuchs
 
 ---
 
