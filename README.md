@@ -62,18 +62,43 @@
 - 🏆 **Hackathon Participant**: Built innovative solutions under tight deadlines
 - 🌟 **Community Member**: Active in developer communities and forums
 
+<!-- GitHub Streak stats also prone to rate limiting - providing alternative -->
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vaibhavvs7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <p><strong>🔥 Coding Streak & Contributions</strong></p>
+  <p><em>Visit my <a href="https://github.com/Vaibhavvs7">GitHub profile</a> to see current activity and contributions</em></p>
 </div>
 
 ---
 
 ## 🎯 GitHub Stats
 
+<!-- 
+Note: GitHub Stats APIs (github-readme-stats) are currently experiencing rate limiting issues
+due to high usage on the public instances. This can cause "API limit hit" errors.
+
+For viewers: You can try refreshing the page later, or visit my GitHub profile directly at:
+https://github.com/Vaibhavvs7
+
+For developers: Consider deploying your own instance of github-readme-stats for more reliability:
+https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+-->
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaibhavvs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <p><strong>📊 GitHub Stats temporarily unavailable due to API rate limits</strong></p>
+  <p>🔄 <em>Please try refreshing later or visit my <a href="https://github.com/Vaibhavvs7">GitHub profile</a> directly</em></p>
+  
+  <br>
+  
+  <!-- Static placeholder showing general activity info -->
+  <div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
+    <h3 style="color: #58a6ff; margin: 0;">📈 Quick Stats Overview</h3>
+    <p style="margin: 10px 0; color: #8b949e;">
+      ✨ Active contributor to MERN stack projects<br>
+      🚀 Constantly learning and building<br>
+      🤝 Open source enthusiast<br>
+      📚 Computer Engineering Student
+    </p>
+  </div>
 </div>
 
 
